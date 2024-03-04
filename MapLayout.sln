@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapLayout", "MapLayout\MapLayout.csproj", "{1253836C-6877-4A5B-8CFB-2E7F897301FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1253836C-6877-4A5B-8CFB-2E7F897301FD}.Debug|x64.ActiveCfg = Debug|x64
+		{1253836C-6877-4A5B-8CFB-2E7F897301FD}.Debug|x64.Build.0 = Debug|x64
+		{1253836C-6877-4A5B-8CFB-2E7F897301FD}.Release|x64.ActiveCfg = Release|x64
+		{1253836C-6877-4A5B-8CFB-2E7F897301FD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97A1D10C-2737-4DB9-9DE9-D0C8BBE98CB1}
+	EndGlobalSection
+EndGlobal
